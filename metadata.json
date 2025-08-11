@@ -1,0 +1,5 @@
+{
+  "name": "Assovel Consórcios - Simulador de Carta de Crédito",
+  "description": "A web application for simulating consortium credit letters for vehicles, properties, and other assets. Users can calculate estimated payments and submit their information to receive a personalized offer from Assovel Consórcios.",
+  "requestFramePermissions": []
+}
